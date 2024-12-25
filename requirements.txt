@@ -142,7 +142,6 @@ python-mecab-ko==1.3.7
 python-mecab-ko-dic==2.1.1.post2
 python-pptx==1.0.2
 pytz==2024.2
-pywin32==306
 pywinpty==2.0.13
 PyYAML==6.0
 pyzmq==26.2.0
